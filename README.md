@@ -1,5 +1,9 @@
 # API MonkeyOffice
 
+## Voraussetzungen
+Windows 11
+SDK CubeSQL: https://github.com/andreaspfeil/CubeSQL.Python3
+
 ## Aufruf der API
 http://127.0.0.1:8088/AAA_APIS/001_Verkauf/VK_Beleg_FW.php?kunde_id=480C644B85E2297DB23598B64C1B&datum=2026-06-04&waehrung=USD&betreff=Your%20new%20VPN&anrede=Dear%20Michel
 
