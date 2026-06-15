@@ -1,0 +1,40 @@
+{
+    "verkaufbelegAdd": {
+        "VerkaufbelegAddItem": {
+            "Adresse_ID": "480C644B85E2297DB23598B64C1B",
+            "Ansprechpartner_ID": "",
+            "AuftragNr": "",
+            "VerkaufbelegArt": 4,
+            "Entwurf": false,
+            "EtikettTag": 0,
+            "Datum": "2026-05-30",
+            "Lieferdatum": "2026-05-30",
+            "Referenz": "",
+            "Projekt_ID": "",
+            "RechnAnschrift": "",
+            "LieferAnschrift": "",
+            "LaVerwenden": false,
+            "Betreff": "Your new VPN",
+            "Anrede": "Dear Michel",
+            "KopfText": "",
+            "FussText": "",
+            "Grussformel": "",
+            "Notizen": "Währungsdatum: xxxxx von EZB Kursdatum",
+            "Bearbeiter": "Stefanie Niemann",
+            "BearbeiterAngeben": true,
+            "Steuergebiet": 3,
+            "BerechnungArt": 0,
+            "VKPreisliste_ID": "",
+            "Waehrung": "USD",
+            "Zahlungsbedingungen": "",
+            "SepaMandatReferenz": "",
+            "SepaBankeinzug": "",
+            "Lieferart": "",
+            "Versandnummer": "",
+            "VersandURL": "",
+            "Rabatt": "0,00",
+            "Lagerbuchung": false
+ 
+ } 
+
+ http://127.0.0.1:8088/AAA_APIS/001_Verkauf/VK_Beleg_FW.php?kunde_id=480C644B85E2297DB23598B64C1B&datum=2026-05-30&waehrung=USD&betreff=Your%20new%20VPN&anrede=Dear%20Michel
