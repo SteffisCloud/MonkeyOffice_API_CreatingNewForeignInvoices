@@ -2,6 +2,9 @@
 
 ## Voraussetzungen
 Windows 11
+
+Bitte herunterladen und in dem gleichem Verzeichnis entpacken, wo die API ist
+
 SDK CubeSQL: https://github.com/andreaspfeil/CubeSQL.Python3
 
 ## Aufruf der API
